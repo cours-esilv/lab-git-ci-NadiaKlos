@@ -77,7 +77,7 @@ Using the command you used in the previous question, find **Ginny** before it's 
 ### 1.6 : List the branches
 List **all** the branches in the repository.
 
-Do all the branches seem normal to you? Is there a branch that catches your eye? 
+Do all the branches seem normal to you? Is there a branch that catches your eye?
 If so, check it out.
 
 > ⚠️ **ANSWER**: Create a file called `1.6` containing the command you used to display the branches in your repo.
